@@ -1,0 +1,31 @@
+{
+  "api": {
+    "name": "WatchSyncPlugin",
+    "slug": "watchsyncplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "pushDataToWatch",
+        "signature": "(data: object) => Promise<void>",
+        "parameters": [
+          {
+            "name": "data",
+            "docs": "",
+            "type": "object"
+          }
+        ],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "pushdatatowatch"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
